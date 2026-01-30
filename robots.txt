@@ -1,0 +1,11 @@
+# robots.txt for iamuzairmehmood.github.io
+
+# Allow all search engines to crawl the entire site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://iamuzairmehmood.github.io/sitemap.xml
+
+# Optional: specify crawl delay (in seconds) if you want to prevent overloading GitHub Pages
+# Crawl-delay: 3
